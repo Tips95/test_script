@@ -1,4 +1,4 @@
-!pip install openai
+pip install openai
 
 import openai
 from google.colab import userdata
